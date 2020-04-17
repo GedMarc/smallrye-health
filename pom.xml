@@ -164,9 +164,9 @@
             <sourceHighlighter>coderay</sourceHighlighter>
             <attributes>
               <icons>font</icons>
-              <pagenums />
+              <pagenums/>
               <version>${project.version}</version>
-              <idprefix />
+              <idprefix/>
               <idseparator>-</idseparator>
               <allow-uri-read>true</allow-uri-read>
               <revnumber>${project.version}</revnumber>
